@@ -1,0 +1,41 @@
+{
+    "ver": 1.0,
+    "se": {
+        "25": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/pon.mp3"
+        },
+        "26": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/pon.mp3"
+        },
+        "27": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/kan.mp3"
+        },
+        "28": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/kan.mp3"
+        },
+        "29": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/chi.mp3"
+        },
+        "30": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/chi.mp3"
+        },
+        "31": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/riichi.mp3"
+        },
+        "32": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/riichi.mp3"
+        },
+        "33": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/ron.mp3"
+        },
+        "34": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/ron.mp3"
+        },
+        "35": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/tsumo.mp3"
+        },
+        "36": {
+            "url": "https://raw.githubusercontent.com/tenhou-ccppresident/tenhou-se/refs/heads/main/assets/tsumo.mp3"
+        }
+    }
+}
